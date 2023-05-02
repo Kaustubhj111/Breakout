@@ -1,0 +1,26 @@
+.grid{
+    position:absolute;
+    width:560px;
+    height:300px;
+    border:solid black 1px;
+}
+.block{
+    position:absolute;
+    width:100px;
+    height:20px;
+    background-color:brown;
+}
+.player{
+    position:absolute;
+    width:100px;
+    height:20px;
+    background-color:blueviolet;
+    border-radius:5%;
+}
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
