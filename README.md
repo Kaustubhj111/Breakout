@@ -6,6 +6,12 @@ You can play it right into your browser.
 
 Here I have used JavaScript and HTML DOM to make the game interactive .I have used CSS to style the game.
 
+## Demo
+
+Refer this codepen for live demo of the website
+
+- [codepen](https://codepen.io/kaustbh100/pen/WNaMNJZ)
+
 ## Acknowledgements
 
 Awesome learning resources to get started with Web Development
